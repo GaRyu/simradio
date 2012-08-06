@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=SimradIO
+_Comment=SimradIO application
+Categories=GNOME;Utility;
+Exec=simradio
+Icon=simradio
+Terminal=false
+Type=Application
